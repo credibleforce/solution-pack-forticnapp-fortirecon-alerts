@@ -22,6 +22,16 @@
             {
                 "name": "10 - SP - Lacework FortiCNAPP FortiRecon Alerts"
             }
+        ],
+        "connectors": [
+            {
+                "name": "AWS Commands",
+                "apiName": "aws-commands"
+            },
+            {
+                "name": "Fortinet FortiRecon EASM",
+                "apiName": "fortinet-fortirecon-easm"
+            }
         ]
     }
 }
