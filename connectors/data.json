@@ -15,9 +15,11 @@
     {
         "name": "fortinet-fortirecon-easm",
         "label": "Fortinet FortiRecon EASM",
-        "category": "Attack Surface Management",
+        "category": [
+            "Attack Surface Management"
+        ],
         "description": "FortiRecon is a Digital Risk Protection Service (DRPS) product that provides an outside-the-network view to the risks posed to your enterprise.",
-        "publisher": null,
+        "publisher": "Fortinet",
         "operation_roles": [],
         "configurations": [],
         "dataImports": [],
